@@ -9,3 +9,4 @@ Git Commands to push your changes to the repo:
 2. git commit -m "enter a discription of your changes"
 3. git push
 
+Please log your changes in your respective .txt file.
